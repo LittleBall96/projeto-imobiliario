@@ -1,0 +1,25 @@
+C:\Users\Caio Ferreira\Desktop\Trabalho1.1M\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.dll
+C:\Users\Caio Ferreira\Desktop\Trabalho1.1M\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Caio Ferreira\Desktop\Trabalho1.1M\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Caio Ferreira\Desktop\Trabalho1.1M\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.dll
+C:\Users\Caio Ferreira\Desktop\Trabalho1.1M\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.pdb
+C:\Users\madsa\Desktop\Trabalho1.2C\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.dll
+C:\Users\madsa\Desktop\Trabalho1.2C\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.pdb
+C:\Users\madsa\Desktop\Trabalho1.2C\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\madsa\Desktop\Trabalho1.2C\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.dll
+C:\Users\madsa\Desktop\Trabalho1.2C\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.pdb
+F:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.dll
+F:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.pdb
+F:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+F:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.dll
+F:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.pdb
+D:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.dll
+D:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.pdb
+D:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+D:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.dll
+D:\TrabalhoLP3-CMImobiliaria\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.pdb
+C:\Users\madsa\OneDrive\Documentos\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.dll
+C:\Users\madsa\OneDrive\Documentos\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\bin\Debug\Modelos.pdb
+C:\Users\madsa\OneDrive\Documentos\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\madsa\OneDrive\Documentos\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.dll
+C:\Users\madsa\OneDrive\Documentos\TrabalhoLP3-CMImobiliaria\CM_Imobiliaria\Modelos\obj\Debug\Modelos.pdb
